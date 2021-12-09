@@ -1,0 +1,6 @@
+.env
+@# Logs
+logs
+*.log
+.DS_Store
+*/.ipynb_checkpoints
